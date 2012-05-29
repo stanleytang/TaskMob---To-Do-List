@@ -6,8 +6,8 @@ An elegant and simple to do list application for the iphone. http://itunes.apple
 By Stanley Tang. Developed in Summer 2011. 
 
 
-[![](http://www.stanleytang.com/wp-content/uploads/2011/09/1.png)](http://www.stanleytang.com/wp-content/uploads/2011/09/1.png =320x460)
+[![](http://www.stanleytang.com/wp-content/uploads/2011/09/1.png)](http://www.stanleytang.com/wp-content/uploads/2011/09/1.png =160x230)
 
-[![](http://www.stanleytang.com/wp-content/uploads/2011/09/2.png)](http://www.stanleytang.com/wp-content/uploads/2011/09/2.png =320x460)
+[![](http://www.stanleytang.com/wp-content/uploads/2011/09/2.png)](http://www.stanleytang.com/wp-content/uploads/2011/09/2.png =160x230)
 
-[![](http://www.stanleytang.com/wp-content/uploads/2011/09/3.png)](http://www.stanleytang.com/wp-content/uploads/2011/09/3.png =320x460)
+[![](http://www.stanleytang.com/wp-content/uploads/2011/09/3.png)](http://www.stanleytang.com/wp-content/uploads/2011/09/3.png =160x230)
